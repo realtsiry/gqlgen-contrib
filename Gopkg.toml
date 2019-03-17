@@ -1,8 +1,8 @@
 required = ["github.com/99designs/gqlgen"]
 
 [[constraint]]
-  branch = "master"
   name = "github.com/99designs/gqlgen"
+  version = "0.8.0"
 
 [[constraint]]
   name = "github.com/opentracing/opentracing-go"

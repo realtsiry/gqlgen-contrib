@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/99designs/gqlgen-contrib/prometheus"
-	"github.com/99designs/gqlgen-contrib/prometheus/internal/graph"
+	"github.com/realtsiry/gqlgen-contrib/prometheus"
+	"github.com/realtsiry/gqlgen-contrib/prometheus/internal/graph"
 	"github.com/99designs/gqlgen/handler"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"github.com/stretchr/testify/assert"

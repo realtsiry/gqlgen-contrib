@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/99designs/gqlgen-contrib/gqlopencensus"
+	"github.com/realtsiry/gqlgen-contrib/gqlopencensus"
 	"github.com/99designs/gqlgen/graphql"
 	"github.com/99designs/gqlgen/handler"
 )

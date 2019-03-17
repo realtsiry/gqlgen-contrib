@@ -5,7 +5,7 @@ import (
 	http "net/http"
 	os "os"
 
-	gqlapollotracingtest "github.com/99designs/gqlgen-contrib/gqlapollotracing/internal/gqlapollotracingtest"
+	gqlapollotracingtest "github.com/realtsiry/gqlgen-contrib/gqlapollotracing/internal/gqlapollotracingtest"
 	handler "github.com/99designs/gqlgen/handler"
 )
 
